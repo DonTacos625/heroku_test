@@ -1,10 +1,1 @@
-<?php
-require('vendor/autoload.php');
-$heroku = "Hello Heroku";
-?>
-
-<html>
-
-<div><?php echo $heroku ?></div>
-
-</html>
+<?php include_once("index.html"); ?>
