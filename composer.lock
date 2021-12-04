@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "8d6e386707285162d415b68037e7c447",
+    "content-hash": "85f3e1ccb942151a1dc3ae7815a23cf1",
     "packages": [
         {
             "name": "pimple/pimple",
@@ -625,10 +625,7 @@
     "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
-    "platform": {
-        "php": "~8.0",
-        "ext-mbstring": "*"
-    },
+    "platform": [],
     "platform-dev": [],
     "plugin-api-version": "2.1.0"
 }
